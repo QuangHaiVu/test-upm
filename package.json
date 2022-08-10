@@ -1,6 +1,6 @@
 {
   "name": "com.thelegends.test",
-  "version": "1.2.0",
+  "version": "1.2.1",
   "displayName": "Test Package",
   "description": "This is an example package",
   "unity": "2021.3"
