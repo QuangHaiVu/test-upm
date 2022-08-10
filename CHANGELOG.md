@@ -1,3 +1,10 @@
+## [1.2.1](https://github.com/QuangHaiVu/test-upm/compare/v1.2.0...v1.2.1) (2022-08-10)
+
+
+### Bug Fixes
+
+* a ([af9438b](https://github.com/QuangHaiVu/test-upm/commit/af9438b98bb3974df8077f751538178a1e4d1887))
+
 # [1.2.0](https://github.com/QuangHaiVu/test-upm/compare/v1.1.2...v1.2.0) (2022-08-10)
 
 
