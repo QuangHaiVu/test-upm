@@ -23,8 +23,7 @@ jobs:
           @semantic-release/changelog
           @semantic-release/git
         branch: master
-        env:
-          GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
+        GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
           
     - name: update upm branch
       run: |
