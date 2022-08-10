@@ -1,3 +1,10 @@
+# [1.3.0](https://github.com/QuangHaiVu/test-upm/compare/v1.2.1...v1.3.0) (2022-08-10)
+
+
+### Features
+
+* new scene ([3588c56](https://github.com/QuangHaiVu/test-upm/commit/3588c569dcfa87b434e9ecac99063ce96a296e54))
+
 ## [1.2.1](https://github.com/QuangHaiVu/test-upm/compare/v1.2.0...v1.2.1) (2022-08-10)
 
 
