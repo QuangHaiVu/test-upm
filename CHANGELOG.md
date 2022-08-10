@@ -1,3 +1,11 @@
+# [1.4.0](https://github.com/QuangHaiVu/test-upm/compare/v1.3.0...v1.4.0) (2022-08-10)
+
+
+### Features
+
+* b ([865b2cc](https://github.com/QuangHaiVu/test-upm/commit/865b2cc93ff1d01ab5cdf3be331f400a41e9f197))
+* c ([8d371db](https://github.com/QuangHaiVu/test-upm/commit/8d371db7c7db63cae8200cd74266ea06805739a9))
+
 # [1.3.0](https://github.com/QuangHaiVu/test-upm/compare/v1.2.1...v1.3.0) (2022-08-10)
 
 
