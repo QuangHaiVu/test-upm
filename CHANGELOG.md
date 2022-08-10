@@ -1,3 +1,18 @@
+# [1.2.0](https://github.com/QuangHaiVu/test-upm/compare/v1.1.2...v1.2.0) (2022-08-10)
+
+
+### Bug Fixes
+
+* a ([1d4f172](https://github.com/QuangHaiVu/test-upm/commit/1d4f17217914d16ed4d76730a68deeecd34de2c7))
+* b ([37b8333](https://github.com/QuangHaiVu/test-upm/commit/37b833372c3191adb0dc316dbd649643dcc6d681))
+* c ([0f3ad28](https://github.com/QuangHaiVu/test-upm/commit/0f3ad28700f8c0eca80ab85b0d9a0295df3f047f))
+
+
+### Features
+
+* a ([0a13e67](https://github.com/QuangHaiVu/test-upm/commit/0a13e6716f2d1765bacd1dbc93add5dfa582da87))
+* b ([25753ca](https://github.com/QuangHaiVu/test-upm/commit/25753ca89d960cbba5f4c766170d47ff567d9eb9))
+
 ## [1.1.2](https://github.com/QuangHaiVu/test-upm/compare/v1.1.1...v1.1.2) (2022-08-10)
 
 
